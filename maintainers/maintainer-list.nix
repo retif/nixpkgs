@@ -23089,6 +23089,12 @@
     githubId = 135050157;
     name = "Preston Pan";
   };
+  retif = {
+    email = "oleks.kuksenko@gmail.com";
+    github = "retif";
+    githubId = 524468;
+    name = "Oleksandr Kuksenko";
+  };
   rettetdemdativ = {
     email = "michael@koeppl.dev";
     github = "rettetdemdativ";
